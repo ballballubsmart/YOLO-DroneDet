@@ -1,7 +1,7 @@
 # YOLO-Drone
 # To supplement the paper entitled YOLO-Drone: An edge-deployable efficient drone tracking and aiming algorithm developed using YOLOv8
 
-Currently we only provide test sets for review. We will supplement all data sets after the articles are included. The original 4K image and cropped 1K image are also available.
+Currently we only provide test set for review. We will supplement all data sets after the articles are included. The original 4K image and cropped 1K image are also available.
 
 We provide two links.
 
