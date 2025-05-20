@@ -1,5 +1,5 @@
-# YOLO-Drone
-# To supplement the paper entitled YOLO-Drone: An edge-deployable efficient drone tracking and aiming algorithm developed using YOLOv8
+# YOLO-DroneDet
+# To supplement the paper entitled Drone Detection and Tracking: An Edge-deployable Efficient Algorithm Based on Vision Sensor
 
 Currently we only provide test set for review. We will supplement all data sets after the articles are included. The original 4K image and cropped 1K image are also available.
 
