@@ -1,0 +1,18 @@
+###1K
+train: D:\\pycharmdata\\datasets\\dataset622\\dataset1k\\train
+val: D:\\pycharmdata\\datasets\\dataset622\\dataset1k\\val
+test: D:\\pycharmdata\\datasets\\dataset622\\dataset1k\\test
+
+##xh
+#train: D:\\pycharmdata\\datasets\\xhdrone\\train
+#val: D:\\pycharmdata\\datasets\\xhdrone\\val
+#test: D:\\pycharmdata\\datasets\\xhdrone\\test
+
+
+
+# number of classes
+nc: 1
+
+# class names
+names:
+  0: Drone
